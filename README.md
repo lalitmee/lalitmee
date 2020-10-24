@@ -41,7 +41,7 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-  <img align="left" alt="lalitmee's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lalitmee&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+  <img alt="lalitmee's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lalitmee&count_private=true&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -50,7 +50,7 @@
 <details>
   <summary>⚡ Top Languages</summary>
 
-  <img align="left" alt="lalitmee's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitmee&hide=emacs_lisp&layout=compact&theme=dark" />
+  <img alt="lalitmee's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitmee&hide=emacs_lisp&layout=compact" />
 
 </details>
 
@@ -59,7 +59,7 @@
 <details>
   <summary>⚡ Wakatime Stats</summary>
 
-  <img align="left" alt="lalitmee's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=lalitmee&theme=dark" />
+  <img alt="lalitmee's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=lalitmee" />
 
 </details>
 
