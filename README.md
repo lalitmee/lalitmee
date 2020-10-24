@@ -41,11 +41,9 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-  <img alt="lalitmee's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lalitmee&count_private=true&show_icons=true&hide_border=true" />
+  <img alt="lalitmee's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lalitmee&count_private=true&show_icons=true" />
 
 </details>
-
-<br />
 
 <details>
   <summary>⚡ Top Languages</summary>
@@ -53,8 +51,6 @@
   <img alt="lalitmee's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitmee&hide=emacs_lisp&layout=compact" />
 
 </details>
-
-<br />
 
 <details>
   <summary>⚡ Wakatime Stats</summary>
