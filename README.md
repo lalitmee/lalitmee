@@ -45,12 +45,16 @@
 
 </details>
 
+<br />
+
 <details>
   <summary>⚡ Top Languages</summary>
 
   <img align="left" alt="lalitmee's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitmee&hide=emacs_lisp&layout=compact&theme=dark" />
 
 </details>
+
+<br />
 
 <details>
   <summary>⚡ Wakatime Stats</summary>
