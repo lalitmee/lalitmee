@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Lalit
+### Hi there, I'm Lalit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/lalitmee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flalitmee&screen_name=lalitmee)
 
@@ -8,23 +8,30 @@
 - 💬 Ask me anything about Javascript, React and Angular. I am happy to help.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football ⚽
-- 📝[Resume](https://drive.google.com/file/d/1y6YlyQEKCp_phOI-RRymOjgYQUPb5kG4/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1y6YlyQEKCp_phOI-RRymOjgYQUPb5kG4/view?usp=sharing)
+
+---
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lkmee&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=lkmee&redirect=true)
+[![Spotify](https://novatorem.lalitmee.vercel.app/api/spotify)](https://open.spotify.com/user/lkmee)
+
+---
 
 ### Connect with me:
 
-[<img align="left" alt="lalitmee | website" width="22px" src="https://img.icons8.com/fluent/96/000000/domain.png" />][website]
-[<img align="left" alt="lalitmee | Twitter" width="22px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter]
-[<img align="left" alt="lalitmee | LinkedIn" width="22px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="lalitmee | Stackoverflow" width="22px" src="https://img.icons8.com/color/96/000000/stackoverflow.png" />][stackoverflow]
-[<img align="left" alt="lalitmee | Reddit" width="22px" src="https://img.icons8.com/color/96/000000/reddit.png" />][reddit]
-[<img align="left" alt="lalitmee | Instagram" width="22px" src="https://img.icons8.com/color/96/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="lalitmee | Instagram" width="22px" src="https://img.icons8.com/color/96/000000/facebook.png" />][facebook]
+[<img align="left" alt="lalitmee | website" width="30" src="https://img.icons8.com/fluent/96/000000/domain.png" />][website]
+[<img align="left" alt="lalitmee | Twitter" width="30" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter]
+[<img align="left" alt="lalitmee | LinkedIn" width="30" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="lalitmee | Stackoverflow" width="30" src="https://img.icons8.com/color/96/000000/stackoverflow.png" />][stackoverflow]
+[<img align="left" alt="lalitmee | Reddit" width="30" src="https://img.icons8.com/color/96/000000/reddit.png" />][reddit]
+[<img align="left" alt="lalitmee | Instagram" width="30" src="https://img.icons8.com/color/96/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="lalitmee | Instagram" width="30" src="https://img.icons8.com/color/96/000000/facebook.png" />][facebook]
+<img align="left" style="margin-top:3px; margin-left:5px" height="24" alt="lalitmee | Profile View" src="https://komarev.com/ghpvc/?username=lalitmee&style=flat-square" >
 
 <br />
+
+---
 
 ### Languages and Tools:
 
@@ -37,24 +44,33 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Neovim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
-<img align="left" alt="Neovim" width="26px"
+<img align="left" alt="Emacs" width="26px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emacs/emacs.png"
 />
 
 <br />
-<br />
+
+---
+
+<details>
+  <summary>⚡ GitHub Recent Activity</summary>
+
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+
+</details>
 
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-  <img alt="lalitmee's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lalitmee&count_private=true&show_icons=true" />
+  <img alt="lalitmee's GitHub Stats" src="https://github-readme-stats.lalitmee.vercel.app/api?username=lalitmee&count_private=true&show_icons=true&theme=gruvbox" />
 
 </details>
 
 <details>
   <summary>⚡ Top Languages</summary>
 
-  <img alt="lalitmee's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitmee&hide=emacs%20lisp&layout=compact" />
+  <img alt="lalitmee's GitHub Stats" src="https://github-readme-stats.lalitmee.vercel.app/api/top-langs/?username=lalitmee&hide=emacs%20lisp&layout=compact&theme=gruvbox" />
 
 </details>
 
