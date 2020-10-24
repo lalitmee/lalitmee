@@ -50,7 +50,7 @@
 <details>
   <summary>⚡ Top Languages</summary>
 
-  <img alt="lalitmee's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitmee&hide=emacs_lisp&layout=compact" />
+  <img alt="lalitmee's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitmee&hide=emacs%20lisp&layout=compact" />
 
 </details>
 
