@@ -62,7 +62,14 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ Wakatime Stats</summary>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+```text
+JavaScript   1 hr 46 mins    ████████████▒░░░░░░░░░░░░   49.51 % 
+Other        48 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.64 % 
+Emacs Lisp   29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+JSON         22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+VimL         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+```
+<!--END_SECTION:waka-->
 
 </details>
 
