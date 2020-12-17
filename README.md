@@ -82,10 +82,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
   <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 8 mins    ███████████████████████▒░   92.94 % 
-Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-TeX          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+JavaScript   3 hrs 25 mins   ████████████████████████░   96.58 % 
+Docker       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 <!--END_SECTION:waka-->
 
