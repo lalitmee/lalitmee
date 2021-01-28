@@ -82,11 +82,11 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
   <!--START_SECTION:waka-->
 ```text
-JavaScript   11 hrs 19 mins  ██████████████████████░░░   88.38 % 
-Other        34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Emacs Lisp   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-YAML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+JavaScript   7 hrs 16 mins   ██████████████████████░░░   88.10 % 
+Emacs Lisp   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Other        16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+YAML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 <!--END_SECTION:waka-->
 
