@@ -56,8 +56,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#511](https://github.com/nvim-telescope/telescope.nvim/issues/511) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
-2. 🗣 Commented on [#2068](https://github.com/hlissner/doom-emacs/issues/2068) in [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs)
+1. 🗣 Commented on [#511](https://github.com/nvim-telescope/telescope.nvim/issues/511) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+2. ❗️ Opened issue [#511](https://github.com/nvim-telescope/telescope.nvim/issues/511) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
 3. 🗣 Commented on [#2068](https://github.com/hlissner/doom-emacs/issues/2068) in [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs)
   <!--END_SECTION:activity-->
 
