@@ -56,9 +56,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#196](https://github.com/akiyosi/goneovim/issues/196) in [akiyosi/goneovim](https://github.com/akiyosi/goneovim)
-2. 🗣 Commented on [#511](https://github.com/nvim-telescope/telescope.nvim/issues/511) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
-3. ❗️ Opened issue [#511](https://github.com/nvim-telescope/telescope.nvim/issues/511) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+1. 🗣 Commented on [#196](https://github.com/akiyosi/goneovim/issues/196) in [akiyosi/goneovim](https://github.com/akiyosi/goneovim)
+2. ❗️ Opened issue [#196](https://github.com/akiyosi/goneovim/issues/196) in [akiyosi/goneovim](https://github.com/akiyosi/goneovim)
+3. 🗣 Commented on [#511](https://github.com/nvim-telescope/telescope.nvim/issues/511) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
   <!--END_SECTION:activity-->
 
 </details>
