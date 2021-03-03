@@ -56,8 +56,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#383](https://github.com/morhetz/gruvbox/issues/383) in [morhetz/gruvbox](https://github.com/morhetz/gruvbox)
-2. 🗣 Commented on [#196](https://github.com/akiyosi/goneovim/issues/196) in [akiyosi/goneovim](https://github.com/akiyosi/goneovim)
+1. 🗣 Commented on [#383](https://github.com/morhetz/gruvbox/issues/383) in [morhetz/gruvbox](https://github.com/morhetz/gruvbox)
+2. ❗️ Opened issue [#383](https://github.com/morhetz/gruvbox/issues/383) in [morhetz/gruvbox](https://github.com/morhetz/gruvbox)
 3. 🗣 Commented on [#196](https://github.com/akiyosi/goneovim/issues/196) in [akiyosi/goneovim](https://github.com/akiyosi/goneovim)
   <!--END_SECTION:activity-->
 
