@@ -56,9 +56,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/lalitmee/dotfiles/pull/1) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
-2. 🎉 Merged PR [#2](https://github.com/lalitmee/dotfiles/pull/2) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
-3. 💪 Opened PR [#2](https://github.com/lalitmee/dotfiles/pull/2) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
+1. 🗣 Commented on [#459](https://github.com/Kethku/neovide/issues/459) in [Kethku/neovide](https://github.com/Kethku/neovide)
+2. 🎉 Merged PR [#1](https://github.com/lalitmee/dotfiles/pull/1) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
+3. 🎉 Merged PR [#2](https://github.com/lalitmee/dotfiles/pull/2) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
   <!--END_SECTION:activity-->
 
 </details>
