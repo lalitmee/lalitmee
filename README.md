@@ -57,8 +57,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1036](https://github.com/nvim-treesitter/nvim-treesitter/issues/1036) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-2. 🗣 Commented on [#196](https://github.com/akiyosi/goneovim/issues/196) in [akiyosi/goneovim](https://github.com/akiyosi/goneovim)
-3. 🗣 Commented on [#196](https://github.com/akiyosi/goneovim/issues/196) in [akiyosi/goneovim](https://github.com/akiyosi/goneovim)
+2. 🗣 Commented on [#1036](https://github.com/nvim-treesitter/nvim-treesitter/issues/1036) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+3. 🗣 Commented on [#1036](https://github.com/nvim-treesitter/nvim-treesitter/issues/1036) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
   <!--END_SECTION:activity-->
 
 </details>
