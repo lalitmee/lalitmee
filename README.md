@@ -56,8 +56,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#471](https://github.com/mhinz/vim-startify/issues/471) in [mhinz/vim-startify](https://github.com/mhinz/vim-startify)
-2. 🗣 Commented on [#1036](https://github.com/nvim-treesitter/nvim-treesitter/issues/1036) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+1. ❗️ Opened issue [#1009](https://github.com/tree-sitter/tree-sitter/issues/1009) in [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)
+2. ❗️ Opened issue [#471](https://github.com/mhinz/vim-startify/issues/471) in [mhinz/vim-startify](https://github.com/mhinz/vim-startify)
 3. 🗣 Commented on [#1036](https://github.com/nvim-treesitter/nvim-treesitter/issues/1036) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
   <!--END_SECTION:activity-->
 
