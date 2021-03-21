@@ -56,9 +56,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22644](https://github.com/Homebrew/linuxbrew-core/issues/22644) in [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core)
-2. ❗️ Opened issue [#1009](https://github.com/tree-sitter/tree-sitter/issues/1009) in [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)
-3. ❗️ Opened issue [#471](https://github.com/mhinz/vim-startify/issues/471) in [mhinz/vim-startify](https://github.com/mhinz/vim-startify)
+1. ❗️ Opened issue [#504](https://github.com/Kethku/neovide/issues/504) in [Kethku/neovide](https://github.com/Kethku/neovide)
+2. ❗️ Opened issue [#22644](https://github.com/Homebrew/linuxbrew-core/issues/22644) in [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core)
+3. ❗️ Opened issue [#1009](https://github.com/tree-sitter/tree-sitter/issues/1009) in [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)
   <!--END_SECTION:activity-->
 
 </details>
