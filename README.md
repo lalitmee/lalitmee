@@ -56,9 +56,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#504](https://github.com/Kethku/neovide/issues/504) in [Kethku/neovide](https://github.com/Kethku/neovide)
-2. ❗️ Opened issue [#22644](https://github.com/Homebrew/linuxbrew-core/issues/22644) in [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core)
-3. ❗️ Opened issue [#1009](https://github.com/tree-sitter/tree-sitter/issues/1009) in [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)
+1. ❗️ Opened issue [#68](https://github.com/TimUntersberger/neogit/issues/68) in [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit)
+2. ❗️ Opened issue [#504](https://github.com/Kethku/neovide/issues/504) in [Kethku/neovide](https://github.com/Kethku/neovide)
+3. ❗️ Opened issue [#22644](https://github.com/Homebrew/linuxbrew-core/issues/22644) in [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core)
   <!--END_SECTION:activity-->
 
 </details>
