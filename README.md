@@ -57,8 +57,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#68](https://github.com/TimUntersberger/neogit/issues/68) in [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit)
-2. 🗣 Commented on [#504](https://github.com/Kethku/neovide/issues/504) in [Kethku/neovide](https://github.com/Kethku/neovide)
-3. ❗️ Opened issue [#68](https://github.com/TimUntersberger/neogit/issues/68) in [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit)
+2. 🗣 Commented on [#68](https://github.com/TimUntersberger/neogit/issues/68) in [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit)
+3. 🗣 Commented on [#504](https://github.com/Kethku/neovide/issues/504) in [Kethku/neovide](https://github.com/Kethku/neovide)
   <!--END_SECTION:activity-->
 
 </details>
