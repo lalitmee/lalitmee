@@ -56,9 +56,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/AckslD/nvim-whichkey-setup.lua/issues/2) in [AckslD/nvim-whichkey-setup.lua](https://github.com/AckslD/nvim-whichkey-setup.lua)
-2. ❗️ Opened issue [#2](https://github.com/AckslD/nvim-whichkey-setup.lua/issues/2) in [AckslD/nvim-whichkey-setup.lua](https://github.com/AckslD/nvim-whichkey-setup.lua)
-3. 🗣 Commented on [#22](https://github.com/kabouzeid/nvim-lspinstall/issues/22) in [kabouzeid/nvim-lspinstall](https://github.com/kabouzeid/nvim-lspinstall)
+1. ❗️ Closed issue [#68](https://github.com/TimUntersberger/neogit/issues/68) in [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit)
+2. 🗣 Commented on [#68](https://github.com/TimUntersberger/neogit/issues/68) in [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit)
+3. 🗣 Commented on [#2](https://github.com/AckslD/nvim-whichkey-setup.lua/issues/2) in [AckslD/nvim-whichkey-setup.lua](https://github.com/AckslD/nvim-whichkey-setup.lua)
   <!--END_SECTION:activity-->
 
 </details>
