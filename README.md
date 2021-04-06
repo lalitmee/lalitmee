@@ -56,9 +56,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1131](https://github.com/nvim-treesitter/nvim-treesitter/issues/1131) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-2. 🗣 Commented on [#2](https://github.com/AckslD/nvim-whichkey-setup.lua/issues/2) in [AckslD/nvim-whichkey-setup.lua](https://github.com/AckslD/nvim-whichkey-setup.lua)
-3. 🗣 Commented on [#504](https://github.com/Kethku/neovide/issues/504) in [Kethku/neovide](https://github.com/Kethku/neovide)
+1. ❗️ Closed issue [#471](https://github.com/mhinz/vim-startify/issues/471) in [mhinz/vim-startify](https://github.com/mhinz/vim-startify)
+2. 🗣 Commented on [#471](https://github.com/mhinz/vim-startify/issues/471) in [mhinz/vim-startify](https://github.com/mhinz/vim-startify)
+3. 🗣 Commented on [#1131](https://github.com/nvim-treesitter/nvim-treesitter/issues/1131) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
   <!--END_SECTION:activity-->
 
 </details>
