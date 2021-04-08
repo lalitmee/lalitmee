@@ -82,11 +82,11 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
   <!--START_SECTION:waka-->
 ```text
-Lua          16 hrs 54 mins  ████████████████▓░░░░░░░░   66.27 % 
-JavaScript   3 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-VimL         1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Other        1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Bash         1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Lua          11 hrs 1 min    ███████████████▒░░░░░░░░░   60.86 % 
+JavaScript   4 hrs           █████▓░░░░░░░░░░░░░░░░░░░   22.16 % 
+Bash         1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Other        52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Text         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ```
 <!--END_SECTION:waka-->
 
