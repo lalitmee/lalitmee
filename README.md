@@ -56,9 +56,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#284](https://github.com/wbthomason/packer.nvim/issues/284) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
-2. 🗣 Commented on [#164](https://github.com/glepnir/lspsaga.nvim/issues/164) in [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim)
-3. 🗣 Commented on [#504](https://github.com/Kethku/neovide/issues/504) in [Kethku/neovide](https://github.com/Kethku/neovide)
+1. 🗣 Commented on [#284](https://github.com/wbthomason/packer.nvim/issues/284) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
+2. 🗣 Commented on [#284](https://github.com/wbthomason/packer.nvim/issues/284) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
+3. 🗣 Commented on [#284](https://github.com/wbthomason/packer.nvim/issues/284) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
   <!--END_SECTION:activity-->
 
 </details>
