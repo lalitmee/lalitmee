@@ -56,7 +56,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#284](https://github.com/wbthomason/packer.nvim/issues/284) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
+1. ❗️ Opened issue [#6](https://github.com/nvim-telescope/telescope-fzf-writer.nvim/issues/6) in [nvim-telescope/telescope-fzf-writer.nvim](https://github.com/nvim-telescope/telescope-fzf-writer.nvim)
 2. 🗣 Commented on [#284](https://github.com/wbthomason/packer.nvim/issues/284) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
 3. 🗣 Commented on [#284](https://github.com/wbthomason/packer.nvim/issues/284) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
   <!--END_SECTION:activity-->
