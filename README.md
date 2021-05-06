@@ -82,9 +82,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
   <!--START_SECTION:waka-->
 ```text
-Lua      1 hr 38 mins    ███████████████████████▓░   95.16 % 
-Other    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-VimL     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Lua      1 hr 38 mins    ████████████████████████░   95.38 % 
+Other    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+VimL     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 <!--END_SECTION:waka-->
 
