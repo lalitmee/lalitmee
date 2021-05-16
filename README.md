@@ -82,9 +82,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
   <!--START_SECTION:waka-->
 ```text
-Other   34 mins         ██████████████▒░░░░░░░░░░   57.84 % 
-Lua     20 mins         █████████░░░░░░░░░░░░░░░░   35.58 % 
-Text    3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Lua     34 mins         ████████████░░░░░░░░░░░░░   47.86 % 
+Other   34 mins         ███████████▓░░░░░░░░░░░░░   46.81 % 
+Text    3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 <!--END_SECTION:waka-->
 
