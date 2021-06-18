@@ -56,9 +56,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1401](https://github.com/nvim-treesitter/nvim-treesitter/issues/1401) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-2. ❗️ Closed issue [#284](https://github.com/wbthomason/packer.nvim/issues/284) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
-3. 🗣 Commented on [#284](https://github.com/wbthomason/packer.nvim/issues/284) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
+1. 🗣 Commented on [#1401](https://github.com/nvim-treesitter/nvim-treesitter/issues/1401) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+2. ❗️ Opened issue [#1401](https://github.com/nvim-treesitter/nvim-treesitter/issues/1401) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+3. ❗️ Closed issue [#284](https://github.com/wbthomason/packer.nvim/issues/284) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
   <!--END_SECTION:activity-->
 
 </details>
