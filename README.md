@@ -56,9 +56,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/lalitmee/dotfiles/pull/4) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
-2. 🎉 Merged PR [#5](https://github.com/lalitmee/dotfiles/pull/5) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
-3. 💪 Opened PR [#5](https://github.com/lalitmee/dotfiles/pull/5) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
+1. ❗️ Opened issue [#495](https://github.com/mhinz/vim-startify/issues/495) in [mhinz/vim-startify](https://github.com/mhinz/vim-startify)
+2. ❌ Closed PR [#4](https://github.com/lalitmee/dotfiles/pull/4) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
+3. 🎉 Merged PR [#5](https://github.com/lalitmee/dotfiles/pull/5) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
   <!--END_SECTION:activity-->
 
 </details>
