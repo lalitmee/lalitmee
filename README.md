@@ -56,9 +56,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com/nvim-telescope/telescope-github.nvim/issues/24) in [nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)
-2. ❗️ Opened issue [#180](https://github.com/TimUntersberger/neogit/issues/180) in [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit)
-3. ❗️ Closed issue [#185](https://github.com/pwntester/octo.nvim/issues/185) in [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim)
+1. 🗣 Commented on [#840](https://github.com/nvim-telescope/telescope.nvim/issues/840) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+2. ❗️ Opened issue [#24](https://github.com/nvim-telescope/telescope-github.nvim/issues/24) in [nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)
+3. ❗️ Opened issue [#180](https://github.com/TimUntersberger/neogit/issues/180) in [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit)
   <!--END_SECTION:activity-->
 
 </details>
