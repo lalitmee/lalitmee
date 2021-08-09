@@ -82,11 +82,11 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
   <!--START_SECTION:waka-->
 ```text
-JavaScript   13 hrs 16 mins  ███████████▓░░░░░░░░░░░░░   46.10 % 
-Lua          13 hrs 2 mins   ███████████▒░░░░░░░░░░░░░   45.28 % 
-Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-VimL         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Text         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+JavaScript   13 hrs 41 mins  ███████████▓░░░░░░░░░░░░░   46.20 % 
+Lua          13 hrs 37 mins  ███████████▓░░░░░░░░░░░░░   46.00 % 
+Other        1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+VimL         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 <!--END_SECTION:waka-->
 
