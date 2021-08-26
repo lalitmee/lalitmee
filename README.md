@@ -56,9 +56,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/fannheyward/telescope-coc.nvim/issues/12) in [fannheyward/telescope-coc.nvim](https://github.com/fannheyward/telescope-coc.nvim)
-2. 🗣 Commented on [#24](https://github.com/nvim-telescope/telescope-github.nvim/issues/24) in [nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)
-3. ❗️ Opened issue [#24](https://github.com/nvim-telescope/telescope-github.nvim/issues/24) in [nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim)
+1. 🗣 Commented on [#12](https://github.com/fannheyward/telescope-coc.nvim/issues/12) in [fannheyward/telescope-coc.nvim](https://github.com/fannheyward/telescope-coc.nvim)
+2. 🗣 Commented on [#12](https://github.com/fannheyward/telescope-coc.nvim/issues/12) in [fannheyward/telescope-coc.nvim](https://github.com/fannheyward/telescope-coc.nvim)
+3. 🗣 Commented on [#12](https://github.com/fannheyward/telescope-coc.nvim/issues/12) in [fannheyward/telescope-coc.nvim](https://github.com/fannheyward/telescope-coc.nvim)
   <!--END_SECTION:activity-->
 
 </details>
