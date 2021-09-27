@@ -56,9 +56,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1187](https://github.com/nvim-telescope/telescope.nvim/issues/1187) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
-2. ❗️ Reopened issue [#1187](https://github.com/nvim-telescope/telescope.nvim/issues/1187) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
-3. ❗️ Closed issue [#1187](https://github.com/nvim-telescope/telescope.nvim/issues/1187) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+1. ❗️ Opened issue [#6](https://github.com/numToStr/Navigator.nvim/issues/6) in [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim)
+2. ❗️ Closed issue [#1187](https://github.com/nvim-telescope/telescope.nvim/issues/1187) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+3. ❗️ Reopened issue [#1187](https://github.com/nvim-telescope/telescope.nvim/issues/1187) in [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
   <!--END_SECTION:activity-->
 
 </details>
