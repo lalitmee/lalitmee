@@ -56,9 +56,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/numToStr/Navigator.nvim/issues/6) in [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim)
-2. 🗣 Commented on [#6](https://github.com/numToStr/Navigator.nvim/issues/6) in [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim)
-3. ❗️ Opened issue [#6](https://github.com/numToStr/Navigator.nvim/issues/6) in [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim)
+1. ❌ Closed PR [#9](https://github.com/lalitmee/c-quotes/pull/9) in [lalitmee/c-quotes](https://github.com/lalitmee/c-quotes)
+2. 🎉 Merged PR [#6](https://github.com/lalitmee/c-quotes/pull/6) in [lalitmee/c-quotes](https://github.com/lalitmee/c-quotes)
+3. 🎉 Merged PR [#7](https://github.com/lalitmee/c-quotes/pull/7) in [lalitmee/c-quotes](https://github.com/lalitmee/c-quotes)
   <!--END_SECTION:activity-->
 
 </details>
