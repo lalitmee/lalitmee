@@ -56,9 +56,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/lalitmee/c-quotes/pull/9) in [lalitmee/c-quotes](https://github.com/lalitmee/c-quotes)
-2. 🎉 Merged PR [#6](https://github.com/lalitmee/c-quotes/pull/6) in [lalitmee/c-quotes](https://github.com/lalitmee/c-quotes)
-3. 🎉 Merged PR [#7](https://github.com/lalitmee/c-quotes/pull/7) in [lalitmee/c-quotes](https://github.com/lalitmee/c-quotes)
+1. ❌ Closed PR [#20](https://github.com/lalitmee/tictactoe/pull/20) in [lalitmee/tictactoe](https://github.com/lalitmee/tictactoe)
+2. ❌ Closed PR [#17](https://github.com/lalitmee/tictactoe/pull/17) in [lalitmee/tictactoe](https://github.com/lalitmee/tictactoe)
+3. ❌ Closed PR [#21](https://github.com/lalitmee/tictactoe/pull/21) in [lalitmee/tictactoe](https://github.com/lalitmee/tictactoe)
   <!--END_SECTION:activity-->
 
 </details>
