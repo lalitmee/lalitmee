@@ -82,10 +82,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
   <!--START_SECTION:waka-->
 ```text
-Lua     1 hr 23 mins    ██████████████████████▒░░   88.81 % 
-YAML    5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Text    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Other   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Lua     34 mins         ████████████████████████▓   98.75 % 
 ```
 <!--END_SECTION:waka-->
 
