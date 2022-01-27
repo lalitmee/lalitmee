@@ -57,8 +57,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/elihunter173/dirbuf.nvim/issues/2) in [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim)
-2. ❗️ Opened issue [#2](https://github.com/elihunter173/dirbuf.nvim/issues/2) in [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim)
-3. ❗️ Closed issue [#237](https://github.com/folke/which-key.nvim/issues/237) in [folke/which-key.nvim](https://github.com/folke/which-key.nvim)
+2. 🗣 Commented on [#2](https://github.com/elihunter173/dirbuf.nvim/issues/2) in [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim)
+3. ❗️ Opened issue [#2](https://github.com/elihunter173/dirbuf.nvim/issues/2) in [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim)
   <!--END_SECTION:activity-->
 
 </details>
