@@ -82,7 +82,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
   <!--START_SECTION:waka-->
 ```text
-Lua    8 mins          █████████████████████████   99.81 % 
+JavaScript   17 mins         ███████████████▒░░░░░░░░░   60.89 % 
+Lua          11 mins         █████████▓░░░░░░░░░░░░░░░   39.05 % 
 ```
 <!--END_SECTION:waka-->
 
