@@ -82,8 +82,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
   <!--START_SECTION:waka-->
 ```text
-Total: 3 hrs 7 mins
-
 JavaScript   2 hrs 10 mins   █████████████████▒░░░░░░░   69.23 % 
 Lua          34 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.28 % 
 Org          11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
