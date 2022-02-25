@@ -56,9 +56,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#328](https://github.com/rockerBOO/awesome-neovim/pull/328) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
-2. 🗣 Commented on [#2790](https://github.com/kovidgoyal/kitty/issues/2790) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
-3. 🗣 Commented on [#2](https://github.com/elihunter173/dirbuf.nvim/issues/2) in [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim)
+1. 🗣 Commented on [#1](https://github.com/lalitmee/cobalt2.nvim/issues/1) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+2. 💪 Opened PR [#328](https://github.com/rockerBOO/awesome-neovim/pull/328) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+3. 🗣 Commented on [#2790](https://github.com/kovidgoyal/kitty/issues/2790) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
   <!--END_SECTION:activity-->
 
 </details>
