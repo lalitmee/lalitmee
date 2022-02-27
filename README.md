@@ -56,9 +56,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ GitHub Recent Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/tjdevries/colorbuddy.nvim/pull/34) in [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim)
-2. ❗️ Closed issue [#1](https://github.com/lalitmee/cobalt2.nvim/issues/1) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
-3. 🗣 Commented on [#1](https://github.com/lalitmee/cobalt2.nvim/issues/1) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+1. 🎉 Merged PR [#2](https://github.com/lalitmee/cobalt2.nvim/pull/2) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+2. 💪 Opened PR [#2](https://github.com/lalitmee/cobalt2.nvim/pull/2) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+3. 💪 Opened PR [#34](https://github.com/tjdevries/colorbuddy.nvim/pull/34) in [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim)
   <!--END_SECTION:activity-->
 
 </details>
