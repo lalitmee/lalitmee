@@ -81,13 +81,16 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>⚡ Wakatime Stats</summary>
 
   <!--START_SECTION:waka-->
+
 ```text
-Lua          22 hrs 28 mins  ██████████████░░░░░░░░░░░   56.62 % 
-JavaScript   9 hrs 40 mins   ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-Markdown     3 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Bash         1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-conf         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Lua          22 hrs 28 mins  ██████████████░░░░░░░░░░░   56.62 %
+JavaScript   9 hrs 40 mins   ██████░░░░░░░░░░░░░░░░░░░   24.36 %
+Markdown     3 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+Bash         1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+conf         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+JSON         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 ```
+
 <!--END_SECTION:waka-->
 
 </details>
