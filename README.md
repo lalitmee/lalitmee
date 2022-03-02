@@ -83,12 +83,12 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <!--START_SECTION:waka-->
 
 ```text
-Lua          42 hrs 11 mins  ████████████████▓░░░░░░░░   66.52 %
-JavaScript   8 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-Markdown     3 hrs 45 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-Bash         2 hrs 5 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-conf         1 hr 47 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-tmux         1 hr 39 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Lua          42 hrs 10 mins  █████████████████▒░░░░░░░   69.81 %
+JavaScript   4 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Markdown     3 hrs 45 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+Bash         2 hrs           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+tmux         1 hr 39 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+conf         1 hr 38 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 ```
 
 <!--END_SECTION:waka-->
