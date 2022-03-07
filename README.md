@@ -68,7 +68,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-  <img alt="lalitmee's GitHub Stats" src="https://github-readme-stats.lalitmee.vercel.app/api?username=lalitmee&count_private=true&show_icons=true&theme=gruvbox" />
+  <!-- <img alt="lalitmee's GitHub Stats" src="https://github-readme-stats.lalitmee.vercel.app/api?username=lalitmee&count_private=true&show_icons=true&theme=gruvbox" /> -->
+
+[![Lalitmee's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitmee)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
