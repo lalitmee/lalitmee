@@ -55,19 +55,13 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <details>
   <summary>⚡ GitHub Recent Activity</summary>
 
-  <!--START_SECTION:activity-->
-<<<<<<< HEAD
-1. 🗣 Commented on [#32](https://github.com/j-hui/fidget.nvim/issues/32) in [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim)
-2. 🗣 Commented on [#3](https://github.com/lalitmee/cobalt2.nvim/issues/3) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
-3. 🗣 Commented on [#32](https://github.com/j-hui/fidget.nvim/issues/32) in [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim)
-  <!--END_SECTION:activity-->
-=======
+<!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#3](https://github.com/lalitmee/cobalt2.nvim/issues/3) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
 2. 🗣 Commented on [#32](https://github.com/j-hui/fidget.nvim/issues/32) in [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim)
 3. 🗣 Commented on [#5](https://github.com/lalitmee/cobalt2.nvim/issues/5) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+
 <!--END_SECTION:activity-->
->>>>>>> 565d2f8 (add contribution graph)
 
 </details>
 
