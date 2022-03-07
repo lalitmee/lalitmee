@@ -1,4 +1,4 @@
-### Hi there, I'm Lalit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![hi](./header.png)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/lalitmee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flalitmee&screen_name=lalitmee)
 
@@ -68,7 +68,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lalitmee&theme=tokyonight" /> -->
 <!-- </p> -->
 
-<!--START_SECTION:waka
+<!--START_SECTION:waka-->
 
 ```text
 Lua          43 hrs 37 mins  ██████████████████▓░░░░░░   75.00 %
@@ -79,7 +79,7 @@ tmux         1 hr 16 mins    ▓░░░░░░░░░░░░░░░░
 conf         1 hr 9 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
-<!--END_SECTION:waka
+<!--END_SECTION:waka-->
 
 <p align="center">
   <img src="https://github.com/lalitmee/lalitmee/raw/output/github-contribution-grid-snake.svg" alt="snake" />
@@ -97,6 +97,8 @@ conf         1 hr 9 mins     ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:activity-->
 
 </details>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![Visitors Count](https://komarev.com/ghpvc/?username=lalitmee&style=flat-square)](https://github.com/lalitmee)
 
