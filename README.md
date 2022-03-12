@@ -80,7 +80,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#32](https://github.com/j-hui/fidget.nvim/issues/32) in [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim)
+1. 🗣 Commented on [#80](https://github.com/nvim-telescope/telescope-project.nvim/issues/80) in [nvim-telescope/telescope-project.nvim](https://github.com/nvim-telescope/telescope-project.nvim)
 2. 🗣 Commented on [#3](https://github.com/lalitmee/cobalt2.nvim/issues/3) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
 3. 🗣 Commented on [#32](https://github.com/j-hui/fidget.nvim/issues/32) in [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim)
 
