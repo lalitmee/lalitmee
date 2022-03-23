@@ -80,9 +80,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#28](https://github.com/stevearc/dressing.nvim/issues/28) in [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim)
-2. ❗️ Closed issue [#28](https://github.com/stevearc/dressing.nvim/issues/28) in [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim)
-3. ❗️ Opened issue [#28](https://github.com/stevearc/dressing.nvim/issues/28) in [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim)
+1. 🗣 Commented on [#1018](https://github.com/dandavison/delta/issues/1018) in [dandavison/delta](https://github.com/dandavison/delta)
+2. 🗣 Commented on [#28](https://github.com/stevearc/dressing.nvim/issues/28) in [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim)
+3. ❗️ Closed issue [#28](https://github.com/stevearc/dressing.nvim/issues/28) in [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim)
 
 <!--END_SECTION:activity-->
 
