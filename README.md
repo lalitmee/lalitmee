@@ -80,8 +80,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1018](https://github.com/dandavison/delta/issues/1018) in [dandavison/delta](https://github.com/dandavison/delta)
-2. 🗣 Commented on [#27](https://github.com/elihunter173/dirbuf.nvim/issues/27) in [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim)
+1. ❗️ Opened issue [#633](https://github.com/nvim-lualine/lualine.nvim/issues/633) in [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
+2. 🗣 Commented on [#1018](https://github.com/dandavison/delta/issues/1018) in [dandavison/delta](https://github.com/dandavison/delta)
 3. 🗣 Commented on [#27](https://github.com/elihunter173/dirbuf.nvim/issues/27) in [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim)
 
 <!--END_SECTION:activity-->
