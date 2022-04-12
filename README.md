@@ -80,9 +80,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#27](https://github.com/elihunter173/dirbuf.nvim/issues/27) in [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim)
-2. 🗣 Commented on [#633](https://github.com/nvim-lualine/lualine.nvim/issues/633) in [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
-3. ❗️ Opened issue [#633](https://github.com/nvim-lualine/lualine.nvim/issues/633) in [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
+1. 🎉 Merged PR [#1](https://github.com/lalitmee/browse.nvim/pull/1) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+2. 🗣 Commented on [#27](https://github.com/elihunter173/dirbuf.nvim/issues/27) in [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim)
+3. 🗣 Commented on [#633](https://github.com/nvim-lualine/lualine.nvim/issues/633) in [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
 
 <!--END_SECTION:activity-->
 
