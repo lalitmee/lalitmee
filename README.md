@@ -80,9 +80,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2821](https://github.com/nvim-treesitter/nvim-treesitter/issues/2821) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-2. ❗️ Opened issue [#2821](https://github.com/nvim-treesitter/nvim-treesitter/issues/2821) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-3. 🎉 Merged PR [#1](https://github.com/lalitmee/browse.nvim/pull/1) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+1. 🗣 Commented on [#6](https://github.com/lalitmee/cobalt2.nvim/issues/6) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+2. 🗣 Commented on [#2821](https://github.com/nvim-treesitter/nvim-treesitter/issues/2821) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+3. ❗️ Opened issue [#2821](https://github.com/nvim-treesitter/nvim-treesitter/issues/2821) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 
 <!--END_SECTION:activity-->
 
