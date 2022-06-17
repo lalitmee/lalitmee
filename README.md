@@ -9,7 +9,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football :football: and volleyball :volleyball:
 - 🤝 Reach out to me on [gmail](mailto:lalitkumar.meena.lk@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1y6YlyQEKCp_phOI-RRymOjgYQUPb5kG4/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1QK5wVbkUGYtZPvt8jZXIX-Kag09vxlHi/view?usp=sharing)
 
 ---
 
