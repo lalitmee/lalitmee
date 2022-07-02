@@ -80,8 +80,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#22](https://github.com/KadoBOT/nvim-spotify/issues/22) in [KadoBOT/nvim-spotify](https://github.com/KadoBOT/nvim-spotify)
-2. 🗣 Commented on [#6](https://github.com/lalitmee/cobalt2.nvim/issues/6) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+1. 🗣 Commented on [#2](https://github.com/lalitmee/browse.nvim/issues/2) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+2. ❗️ Opened issue [#22](https://github.com/KadoBOT/nvim-spotify/issues/22) in [KadoBOT/nvim-spotify](https://github.com/KadoBOT/nvim-spotify)
 3. 🗣 Commented on [#2821](https://github.com/nvim-treesitter/nvim-treesitter/issues/2821) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 
 <!--END_SECTION:activity-->
