@@ -80,9 +80,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4](https://github.com/lalitmee/browse.nvim/issues/4) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-2. 🗣 Commented on [#5](https://github.com/lalitmee/browse.nvim/issues/5) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-3. 🗣 Commented on [#7](https://github.com/lalitmee/browse.nvim/issues/7) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+1. ❗️ Opened issue [#4](https://github.com/jinh0/eyeliner.nvim/issues/4) in [jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim)
+2. 🗣 Commented on [#4](https://github.com/lalitmee/browse.nvim/issues/4) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+3. 🗣 Commented on [#5](https://github.com/lalitmee/browse.nvim/issues/5) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
 
 <!--END_SECTION:activity-->
 
