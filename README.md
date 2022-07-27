@@ -80,9 +80,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#749](https://github.com/nvim-lualine/lualine.nvim/issues/749) in [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
-2. 🗣 Commented on [#749](https://github.com/nvim-lualine/lualine.nvim/issues/749) in [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
-3. ❗️ Opened issue [#749](https://github.com/nvim-lualine/lualine.nvim/issues/749) in [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
+1. 🗣 Commented on [#3](https://github.com/lalitmee/browse.nvim/issues/3) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+2. 🗣 Commented on [#7](https://github.com/lalitmee/browse.nvim/issues/7) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+3. 🗣 Commented on [#749](https://github.com/nvim-lualine/lualine.nvim/issues/749) in [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
 
 <!--END_SECTION:activity-->
 
