@@ -80,8 +80,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#3](https://github.com/lalitmee/cobalt2.nvim/issues/3) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
-2. 🗣 Commented on [#3](https://github.com/lalitmee/cobalt2.nvim/issues/3) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+1. 🗣 Commented on [#619](https://github.com/gnome-pomodoro/gnome-pomodoro/issues/619) in [gnome-pomodoro/gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro)
+2. ❗️ Closed issue [#3](https://github.com/lalitmee/cobalt2.nvim/issues/3) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
 3. 🗣 Commented on [#3](https://github.com/lalitmee/cobalt2.nvim/issues/3) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
 
 <!--END_SECTION:activity-->
