@@ -80,9 +80,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#8](https://github.com/lalitmee/browse.nvim/pull/8) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-2. 🗣 Commented on [#8](https://github.com/lalitmee/browse.nvim/issues/8) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-3. 🗣 Commented on [#160](https://github.com/mhartington/formatter.nvim/issues/160) in [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim)
+1. ❗️ Closed issue [#3](https://github.com/lalitmee/browse.nvim/issues/3) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+2. 🗣 Commented on [#3](https://github.com/lalitmee/browse.nvim/issues/3) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+3. ❗️ Closed issue [#7](https://github.com/lalitmee/browse.nvim/issues/7) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
 
 <!--END_SECTION:activity-->
 
