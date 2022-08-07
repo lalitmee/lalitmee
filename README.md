@@ -80,9 +80,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#160](https://github.com/mhartington/formatter.nvim/issues/160) in [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim)
+1. 🗣 Commented on [#8](https://github.com/lalitmee/browse.nvim/issues/8) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
 2. 🗣 Commented on [#160](https://github.com/mhartington/formatter.nvim/issues/160) in [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim)
-3. 🗣 Commented on [#619](https://github.com/gnome-pomodoro/gnome-pomodoro/issues/619) in [gnome-pomodoro/gnome-pomodoro](https://github.com/gnome-pomodoro/gnome-pomodoro)
+3. 🗣 Commented on [#160](https://github.com/mhartington/formatter.nvim/issues/160) in [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim)
 
 <!--END_SECTION:activity-->
 
