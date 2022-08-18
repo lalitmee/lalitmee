@@ -80,9 +80,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com/axelvc/react-timer/issues/1) in [axelvc/react-timer](https://github.com/axelvc/react-timer)
-2. ❗️ Closed issue [#3](https://github.com/lalitmee/browse.nvim/issues/3) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-3. 🗣 Commented on [#3](https://github.com/lalitmee/browse.nvim/issues/3) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+1. 🎉 Merged PR [#49](https://github.com/lalitmee/github-search/pull/49) in [lalitmee/github-search](https://github.com/lalitmee/github-search)
+2. ❗️ Opened issue [#1](https://github.com/axelvc/react-timer/issues/1) in [axelvc/react-timer](https://github.com/axelvc/react-timer)
+3. ❗️ Closed issue [#3](https://github.com/lalitmee/browse.nvim/issues/3) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
 
 <!--END_SECTION:activity-->
 
