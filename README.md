@@ -80,9 +80,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#49](https://github.com/lalitmee/github-search/pull/49) in [lalitmee/github-search](https://github.com/lalitmee/github-search)
-2. ❗️ Opened issue [#1](https://github.com/axelvc/react-timer/issues/1) in [axelvc/react-timer](https://github.com/axelvc/react-timer)
-3. ❗️ Closed issue [#3](https://github.com/lalitmee/browse.nvim/issues/3) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+1. 🎉 Merged PR [#30](https://github.com/lalitmee/tictactoe/pull/30) in [lalitmee/tictactoe](https://github.com/lalitmee/tictactoe)
+2. 🎉 Merged PR [#31](https://github.com/lalitmee/tictactoe/pull/31) in [lalitmee/tictactoe](https://github.com/lalitmee/tictactoe)
+3. 🎉 Merged PR [#32](https://github.com/lalitmee/tictactoe/pull/32) in [lalitmee/tictactoe](https://github.com/lalitmee/tictactoe)
 
 <!--END_SECTION:activity-->
 
