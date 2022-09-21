@@ -81,8 +81,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#236](https://github.com/andymass/vim-matchup/issues/236) in [andymass/vim-matchup](https://github.com/andymass/vim-matchup)
-2. ❗️ Opened issue [#230](https://github.com/numToStr/Comment.nvim/issues/230) in [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim)
-3. 🎉 Merged PR [#31](https://github.com/lalitmee/tictactoe/pull/31) in [lalitmee/tictactoe](https://github.com/lalitmee/tictactoe)
+2. 🗣 Commented on [#7](https://github.com/lalitmee/cobalt2.nvim/issues/7) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+3. 🗣 Commented on [#236](https://github.com/andymass/vim-matchup/issues/236) in [andymass/vim-matchup](https://github.com/andymass/vim-matchup)
 
 <!--END_SECTION:activity-->
 
