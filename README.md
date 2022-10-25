@@ -80,9 +80,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8](https://github.com/lalitmee/cobalt2.nvim/issues/8) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
-2. 🗣 Commented on [#65](https://github.com/kovidgoyal/kitty-themes/issues/65) in [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes)
-3. 💪 Opened PR [#65](https://github.com/kovidgoyal/kitty-themes/pull/65) in [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes)
+1. 🗣 Commented on [#183](https://github.com/mhartington/formatter.nvim/issues/183) in [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim)
+2. 🗣 Commented on [#8](https://github.com/lalitmee/cobalt2.nvim/issues/8) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+3. 🗣 Commented on [#65](https://github.com/kovidgoyal/kitty-themes/issues/65) in [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes)
 
 <!--END_SECTION:activity-->
 
