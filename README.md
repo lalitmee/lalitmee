@@ -80,8 +80,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#9](https://github.com/lalitmee/browse.nvim/issues/9) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-2. 🗣 Commented on [#183](https://github.com/mhartington/formatter.nvim/issues/183) in [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim)
+1. ❗️ Opened issue [#27](https://github.com/Wansmer/treesj/issues/27) in [Wansmer/treesj](https://github.com/Wansmer/treesj)
+2. 🗣 Commented on [#9](https://github.com/lalitmee/browse.nvim/issues/9) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
 3. 🗣 Commented on [#65](https://github.com/kovidgoyal/kitty-themes/issues/65) in [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes)
 
 <!--END_SECTION:activity-->
