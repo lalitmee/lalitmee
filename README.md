@@ -80,9 +80,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11](https://github.com/lalitmee/browse.nvim/issues/11) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-2. 🗣 Commented on [#12](https://github.com/lalitmee/browse.nvim/issues/12) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-3. ❗️ Closed issue [#9](https://github.com/lalitmee/browse.nvim/issues/9) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+1. 🗣 Commented on [#409](https://github.com/TimUntersberger/neogit/issues/409) in [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit)
+2. 🗣 Commented on [#11](https://github.com/lalitmee/browse.nvim/issues/11) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+3. 🗣 Commented on [#12](https://github.com/lalitmee/browse.nvim/issues/12) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
 
 <!--END_SECTION:activity-->
 
