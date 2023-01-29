@@ -80,8 +80,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/boltlessengineer/bufterm.nvim/issues/1) in [boltlessengineer/bufterm.nvim](https://github.com/boltlessengineer/bufterm.nvim)
-2. 🗣 Commented on [#187](https://github.com/TimUntersberger/neogit/issues/187) in [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit)
+1. 🗣 Commented on [#9](https://github.com/lalitmee/cobalt2.nvim/issues/9) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+2. 🗣 Commented on [#1](https://github.com/boltlessengineer/bufterm.nvim/issues/1) in [boltlessengineer/bufterm.nvim](https://github.com/boltlessengineer/bufterm.nvim)
 3. 🗣 Commented on [#13](https://github.com/lalitmee/browse.nvim/issues/13) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
 
 <!--END_SECTION:activity-->
