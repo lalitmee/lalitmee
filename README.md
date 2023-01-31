@@ -4,12 +4,12 @@
 
 ## I'm a Software Developer @[koinearth](https://github.com/koinearth)
 
-- 🌱 I’m currently learning Golang.
+- 🌱 I’m currently learning Golang and Rust.
 - 💬 Ask me anything about Javascript, React and Angular. I am happy to help.
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute to open source projects in Golang and Rust.
 - ⚡ Fun fact: I love to play football :football: and volleyball :volleyball:
 - 🤝 Reach out to me on [gmail](mailto:lalitkumar.meena.lk@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1QK5wVbkUGYtZPvt8jZXIX-Kag09vxlHi/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1vLz0Lbd0-KRB5inmnIeA-Pz8Z_7cHS7h/view?usp=share_link)
 
 ---
 
