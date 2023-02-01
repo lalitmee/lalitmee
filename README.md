@@ -2,14 +2,14 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/lalitmee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flalitmee&screen_name=lalitmee)
 
-## I'm a Software Developer @[koinearth](https://github.com/koinearth)
+## I'm a Sr. Software Developer @[koinearth](https://github.com/koinearth)
 
 - 🌱 I’m currently learning Golang and Rust.
 - 💬 Ask me anything about Javascript, React and Angular. I am happy to help.
 - 🥅 2023 Goals: Contribute to open source projects in Golang and Rust.
 - ⚡ Fun fact: I love to play football :football: and volleyball :volleyball:
 - 🤝 Reach out to me on [gmail](mailto:lalitkumar.meena.lk@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1vLz0Lbd0-KRB5inmnIeA-Pz8Z_7cHS7h/view?usp=share_link)
+- 📝 [Resume](https://drive.google.com/file/d/19O4gByteV6BTuTQwtl4cF43bFvQx92Cl/view?usp=share_link)
 
 ---
 
