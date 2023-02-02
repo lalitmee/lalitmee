@@ -80,9 +80,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#180](https://github.com/phaazon/this-week-in-neovim-contents/pull/180) in [phaazon/this-week-in-neovim-contents](https://github.com/phaazon/this-week-in-neovim-contents)
-2. 🗣 Commented on [#5](https://github.com/lalitmee/browse.nvim/issues/5) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-3. 🗣 Commented on [#9](https://github.com/lalitmee/cobalt2.nvim/issues/9) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+1. ❗️ Closed issue [#4](https://github.com/lalitmee/browse.nvim/issues/4) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+2. 🗣 Commented on [#4](https://github.com/lalitmee/browse.nvim/issues/4) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+3. 🗣 Commented on [#5](https://github.com/lalitmee/browse.nvim/issues/5) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
 
 <!--END_SECTION:activity-->
 
