@@ -9,7 +9,7 @@
 - 🥅 2023 Goals: Contribute to open source projects in Golang and Rust.
 - ⚡ Fun fact: I love to play football :football: and volleyball :volleyball:
 - 🤝 Reach out to me on [gmail](mailto:lalitkumar.meena.lk@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1DbfHuJr5BSupK64XvI0M4K89eB66X7Gd/view?usp=share_link)
+- 📝 [Resume](https://drive.google.com/file/d/1kVS1he8XXO6c03ttH2mdtnFw6tseZIsL/view?usp=share_link)
 
 ---
 
