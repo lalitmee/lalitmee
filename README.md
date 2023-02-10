@@ -80,9 +80,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#9](https://github.com/axkirillov/easypick.nvim/pull/9) in [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim)
-2. 🗣 Commented on [#5](https://github.com/lalitmee/browse.nvim/issues/5) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-3. ❗️ Closed issue [#4](https://github.com/lalitmee/browse.nvim/issues/4) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+1. 🎉 Merged PR [#2](https://github.com/lalitmee/lalit-kumar-frontend-developer/pull/2) in [lalitmee/lalit-kumar-frontend-developer](https://github.com/lalitmee/lalit-kumar-frontend-developer)
+2. 💪 Opened PR [#2](https://github.com/lalitmee/lalit-kumar-frontend-developer/pull/2) in [lalitmee/lalit-kumar-frontend-developer](https://github.com/lalitmee/lalit-kumar-frontend-developer)
+3. 🎉 Merged PR [#1](https://github.com/lalitmee/lalit-kumar-frontend-developer/pull/1) in [lalitmee/lalit-kumar-frontend-developer](https://github.com/lalitmee/lalit-kumar-frontend-developer)
 
 <!--END_SECTION:activity-->
 
