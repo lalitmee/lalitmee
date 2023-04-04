@@ -159,9 +159,9 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/lalitmee/lalit-kumar-frontend-developer/pull/2) in [lalitmee/lalit-kumar-frontend-developer](https://github.com/lalitmee/lalit-kumar-frontend-developer)
-2. 💪 Opened PR [#2](https://github.com/lalitmee/lalit-kumar-frontend-developer/pull/2) in [lalitmee/lalit-kumar-frontend-developer](https://github.com/lalitmee/lalit-kumar-frontend-developer)
-3. 🎉 Merged PR [#1](https://github.com/lalitmee/lalit-kumar-frontend-developer/pull/1) in [lalitmee/lalit-kumar-frontend-developer](https://github.com/lalitmee/lalit-kumar-frontend-developer)
+1. ❗️ Closed issue [#5](https://github.com/lalitmee/browse.nvim/issues/5) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+2. 🎉 Merged PR [#2](https://github.com/lalitmee/lalit-kumar-frontend-developer/pull/2) in [lalitmee/lalit-kumar-frontend-developer](https://github.com/lalitmee/lalit-kumar-frontend-developer)
+3. 💪 Opened PR [#2](https://github.com/lalitmee/lalit-kumar-frontend-developer/pull/2) in [lalitmee/lalit-kumar-frontend-developer](https://github.com/lalitmee/lalit-kumar-frontend-developer)
 
 <!--END_SECTION:activity-->
 
