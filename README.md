@@ -1,7 +1,7 @@
 ![hi](./header.png)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/lalitmee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flalitmee&screen_name=lalitmee)
-[![wakatime](https://wakatime.com/badge/user/16552a19-ffb5-406c-8f93-646c60068bd2.svg)](https://wakatime.com/@16552a19-ffb5-406c-8f93-646c60068bd2)
+[![wakatime](https://wakatime.com/badge/user/16552a19-ffb5-406c-8f93-646c60068bd2.svg?style=for-the-badge)](https://wakatime.com/@16552a19-ffb5-406c-8f93-646c60068bd2)
 
 ## I'm a SDE-2 @[Quartic.ai](https://github.com/Quarticai)
 
