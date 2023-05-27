@@ -73,9 +73,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#194](https://github.com/PiyushKalyanpy/GyanaGuru/issues/194) in [PiyushKalyanpy/GyanaGuru](https://github.com/PiyushKalyanpy/GyanaGuru)
-2. 🗣 Commented on [#15](https://github.com/PiyushKalyanpy/GyanaGuru/issues/15) in [PiyushKalyanpy/GyanaGuru](https://github.com/PiyushKalyanpy/GyanaGuru)
-3. ❗️ Opened issue [#193](https://github.com/PiyushKalyanpy/GyanaGuru/issues/193) in [PiyushKalyanpy/GyanaGuru](https://github.com/PiyushKalyanpy/GyanaGuru)
+1. ❗️ Opened issue [#197](https://github.com/PiyushKalyanpy/GyanaGuru/issues/197) in [PiyushKalyanpy/GyanaGuru](https://github.com/PiyushKalyanpy/GyanaGuru)
+2. ❗️ Opened issue [#196](https://github.com/PiyushKalyanpy/GyanaGuru/issues/196) in [PiyushKalyanpy/GyanaGuru](https://github.com/PiyushKalyanpy/GyanaGuru)
+3. 🗣 Commented on [#195](https://github.com/PiyushKalyanpy/GyanaGuru/issues/195) in [PiyushKalyanpy/GyanaGuru](https://github.com/PiyushKalyanpy/GyanaGuru)
 
 <!--END_SECTION:activity-->
 
