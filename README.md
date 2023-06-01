@@ -73,9 +73,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#230](https://github.com/PiyushKalyanpy/GyanaGuru/issues/230) in [PiyushKalyanpy/GyanaGuru](https://github.com/PiyushKalyanpy/GyanaGuru)
-2. 🗣 Commented on [#228](https://github.com/PiyushKalyanpy/GyanaGuru/issues/228) in [PiyushKalyanpy/GyanaGuru](https://github.com/PiyushKalyanpy/GyanaGuru)
-3. 🗣 Commented on [#215](https://github.com/PiyushKalyanpy/GyanaGuru/issues/215) in [PiyushKalyanpy/GyanaGuru](https://github.com/PiyushKalyanpy/GyanaGuru)
+1. 🗣 Commented on [#14](https://github.com/lalitmee/browse.nvim/issues/14) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+2. 🗣 Commented on [#230](https://github.com/PiyushKalyanpy/GyanaGuru/issues/230) in [PiyushKalyanpy/GyanaGuru](https://github.com/PiyushKalyanpy/GyanaGuru)
+3. 🗣 Commented on [#228](https://github.com/PiyushKalyanpy/GyanaGuru/issues/228) in [PiyushKalyanpy/GyanaGuru](https://github.com/PiyushKalyanpy/GyanaGuru)
 
 <!--END_SECTION:activity-->
 
