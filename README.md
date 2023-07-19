@@ -73,9 +73,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#9](https://github.com/lalitmee/cobalt2.nvim/issues/9#issuecomment-1637045912) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
-2. 🗣 Commented on [#9](https://github.com/lalitmee/cobalt2.nvim/issues/9#issuecomment-1615890979) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
-3. 🗣 Commented on [#420](https://github.com/PiyushKalyanpy/GyanaGuru/pull/420#issuecomment-1614612009) in [PiyushKalyanpy/GyanaGuru](https://github.com/PiyushKalyanpy/GyanaGuru)
+1. 🗣 Commented on [#9](https://github.com/lalitmee/cobalt2.nvim/issues/9#issuecomment-1642645517) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+2. 🗣 Commented on [#9](https://github.com/lalitmee/cobalt2.nvim/issues/9#issuecomment-1637045912) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+3. 🗣 Commented on [#9](https://github.com/lalitmee/cobalt2.nvim/issues/9#issuecomment-1615890979) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
 
 <!--END_SECTION:activity-->
 
