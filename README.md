@@ -73,9 +73,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#17](https://github.com/lalitmee/browse.nvim/pull/17#issuecomment-1702173635) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-2. 🎉 Merged PR [#17](https://github.com/lalitmee/browse.nvim/pull/17) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-3. 🗣 Commented on [#24889](https://github.com/neovim/neovim/pull/24889#issuecomment-1694714154) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🗣 Commented on [#17](https://github.com/lalitmee/browse.nvim/pull/17#issuecomment-1703823707) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+2. 🗣 Commented on [#17](https://github.com/lalitmee/browse.nvim/pull/17#issuecomment-1702173635) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+3. 🎉 Merged PR [#17](https://github.com/lalitmee/browse.nvim/pull/17) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
 
 <!--END_SECTION:activity-->
 
