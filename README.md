@@ -73,9 +73,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#9](https://github.com/lalitmee/cobalt2.nvim/issues/9) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
-2. 🔒 Closed issue [#19](https://github.com/lalitmee/browse.nvim/issues/19) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-3. 🎉 Merged PR [#20](https://github.com/lalitmee/browse.nvim/pull/20) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+1. 🎉 Merged PR [#22](https://github.com/lalitmee/browse.nvim/pull/22) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+2. 🔒 Closed issue [#9](https://github.com/lalitmee/cobalt2.nvim/issues/9) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+3. 🔒 Closed issue [#19](https://github.com/lalitmee/browse.nvim/issues/19) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
 
 <!--END_SECTION:activity-->
 
