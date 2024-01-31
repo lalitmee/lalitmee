@@ -73,9 +73,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#23](https://github.com/lalitmee/browse.nvim/issues/23#issuecomment-1899111994) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-2. 🗣 Commented on [#23](https://github.com/lalitmee/browse.nvim/issues/23#issuecomment-1891003256) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-3. 🗣 Commented on [#23](https://github.com/lalitmee/browse.nvim/issues/23#issuecomment-1890655589) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+1. 🎉 Merged PR [#135](https://github.com/lalitmee/portfolio/pull/135) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
+2. ❗ Opened issue [#35](https://github.com/lalitmee/lalitmee.github.io/issues/35) in [lalitmee/lalitmee.github.io](https://github.com/lalitmee/lalitmee.github.io)
+3. ❌ Closed PR [#34](https://github.com/lalitmee/lalitmee.github.io/pull/34) in [lalitmee/lalitmee.github.io](https://github.com/lalitmee/lalitmee.github.io)
 
 <!--END_SECTION:activity-->
 
