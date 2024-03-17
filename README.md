@@ -73,9 +73,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#38](https://github.com/lalitmee/lalitmee.github.io/issues/38) in [lalitmee/lalitmee.github.io](https://github.com/lalitmee/lalitmee.github.io)
-2. ❗ Opened issue [#37](https://github.com/lalitmee/lalitmee.github.io/issues/37) in [lalitmee/lalitmee.github.io](https://github.com/lalitmee/lalitmee.github.io)
-3. ❗ Opened issue [#36](https://github.com/lalitmee/lalitmee.github.io/issues/36) in [lalitmee/lalitmee.github.io](https://github.com/lalitmee/lalitmee.github.io)
+1. 🎉 Merged PR [#12](https://github.com/lalitmee/cobalt2.nvim/pull/12) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+2. ❗ Opened issue [#38](https://github.com/lalitmee/lalitmee.github.io/issues/38) in [lalitmee/lalitmee.github.io](https://github.com/lalitmee/lalitmee.github.io)
+3. ❗ Opened issue [#37](https://github.com/lalitmee/lalitmee.github.io/issues/37) in [lalitmee/lalitmee.github.io](https://github.com/lalitmee/lalitmee.github.io)
 
 <!--END_SECTION:activity-->
 
