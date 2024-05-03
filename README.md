@@ -3,11 +3,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/lalitmee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flalitmee&screen_name=lalitmee)
 [![wakatime](https://wakatime.com/badge/user/16552a19-ffb5-406c-8f93-646c60068bd2.svg?style=for-the-badge)](https://wakatime.com/@16552a19-ffb5-406c-8f93-646c60068bd2)
 
-## I'm a SDE-2 @[Quartic.ai](https://github.com/Quarticai)
+## I'm a Senior Software Engineer [@Nykaa](https://github.com/Nykaa)
 
 - 🌱 I’m currently learning Golang and Rust.
-- 💬 Ask me anything about Javascript, Typescript, React and Angular. I am happy to help.
-- 🥅 2023 Goals: Contribute to open source projects in Golang and Rust.
+- 💬 Ask me anything about Javascript, Typescript, React, and Angular. I am happy to help.
+- 🥅 2024 Goals: Contribute to open-source projects in Golang and Rust.
 - ⚡ Fun fact: I love to play football :football: and volleyball :volleyball:
 - 🤝 Reach out to me on [gmail](mailto:lalitkumar.meena.lk@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/137lQjFBNwAy127B0j_EugT0_KKxPMnza/view?usp=drive_link)
