@@ -73,7 +73,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/lalitmee/cobalt2.nvim/pull/14) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+1. 🗣 Commented on [#24](https://github.com/lalitmee/browse.nvim/pull/24#issuecomment-2366847806) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
 2. 🗣 Commented on [#14](https://github.com/lalitmee/cobalt2.nvim/pull/14#issuecomment-2030087482) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
 3. 🎉 Merged PR [#12](https://github.com/lalitmee/cobalt2.nvim/pull/12) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
 
