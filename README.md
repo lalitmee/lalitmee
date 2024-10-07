@@ -10,11 +10,11 @@
 - 🥅 2024 Goals: Contribute to open-source projects in Golang and Rust.
 - ⚡ Fun fact: I love to play football :football: and volleyball :volleyball:
 - 🤝 Reach out to me on [gmail](mailto:lalitkumar.meena.lk@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/137lQjFBNwAy127B0j_EugT0_KKxPMnza/view?usp=drive_link)
+- 📝 [Resume](https://drive.google.com/file/d/1IzxFJjM912kyFfPeIzyYJKCLK_tWjTcv/view?usp=drive_link)
 
----
+______________________________________________________________________
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="lalitmee | website" width="30" src="https://img.icons8.com/fluent/96/000000/domain.png" />][website]
 [<img align="left" alt="lalitmee | Twitter" width="30" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter]
@@ -26,9 +26,9 @@
 
 <br />
 
----
+______________________________________________________________________
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
@@ -50,7 +50,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br />
 
----
+______________________________________________________________________
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lalitmee&count_private=true&show_icons=true&theme=tokyonight" />
