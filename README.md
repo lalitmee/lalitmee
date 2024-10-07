@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning Golang and Rust.
 - 💬 Ask me anything about Javascript, Typescript, React, and Angular. I am happy to help.
 - 🥅 2024 Goals: Contribute to open-source projects in Golang and Rust.
-- ⚡ Fun fact: I love to play football :football: and volleyball :volleyball:
+- ⚡ Fun fact: I love to play football :football:, volleyball :volleyball:
+  and badminton :badminton:
 - 🤝 Reach out to me on [gmail](mailto:lalitkumar.meena.lk@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1IzxFJjM912kyFfPeIzyYJKCLK_tWjTcv/view?usp=drive_link)
 
