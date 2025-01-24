@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#18](https://github.com/lalitmee/cobalt2.nvim/issues/18#issuecomment-2610253266) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
-2. 🎉 Merged PR [#17](https://github.com/lalitmee/cobalt2.nvim/pull/17) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
-3. 💪 Opened PR [#17](https://github.com/lalitmee/cobalt2.nvim/pull/17) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+1. 🔒 Closed issue [#16](https://github.com/lalitmee/cobalt2.nvim/issues/16) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+2. 🗣 Commented on [#16](https://github.com/lalitmee/cobalt2.nvim/issues/16#issuecomment-2610554525) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+3. 🗣 Commented on [#18](https://github.com/lalitmee/cobalt2.nvim/issues/18#issuecomment-2610253266) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
 
 <!--END_SECTION:activity-->
 
