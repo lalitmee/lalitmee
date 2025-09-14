@@ -74,7 +74,7 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#6](https://github.com/lalitmee/dotfiles/pull/6) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
+1. 🚀 Published release [v1.0.0](https://github.com/lalitmee/codecompanion-spinners.nvim/releases/tag/v1.0.0) in [lalitmee/codecompanion-spinners.nvim](https://github.com/lalitmee/codecompanion-spinners.nvim)
 2. 🗣 Commented on [#16](https://github.com/lalitmee/cobalt2.nvim/issues/16#issuecomment-2610554525) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
 3. 🗣 Commented on [#18](https://github.com/lalitmee/cobalt2.nvim/issues/18#issuecomment-2610253266) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
 
