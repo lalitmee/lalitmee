@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5](https://github.com/laktak/tome/issues/5#issuecomment-3300263783) in [laktak/tome](https://github.com/laktak/tome)
-2. 🗣 Commented on [#5](https://github.com/laktak/tome/issues/5#issuecomment-3299908256) in [laktak/tome](https://github.com/laktak/tome)
-3. 🚀 Published release [v1.0.0](https://github.com/lalitmee/codecompanion-spinners.nvim/releases/tag/v1.0.0) in [lalitmee/codecompanion-spinners.nvim](https://github.com/lalitmee/codecompanion-spinners.nvim)
+1. 🗣 Commented on [#5](https://github.com/laktak/tome/issues/5#issuecomment-3303871320) in [laktak/tome](https://github.com/laktak/tome)
+2. 🗣 Commented on [#5](https://github.com/laktak/tome/issues/5#issuecomment-3300263783) in [laktak/tome](https://github.com/laktak/tome)
+3. 🗣 Commented on [#5](https://github.com/laktak/tome/issues/5#issuecomment-3299908256) in [laktak/tome](https://github.com/laktak/tome)
 
 <!--END_SECTION:activity-->
 
