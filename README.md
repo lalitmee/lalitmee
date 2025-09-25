@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5](https://github.com/laktak/tome/issues/5#issuecomment-3315146662) in [laktak/tome](https://github.com/laktak/tome)
-2. 🗣 Commented on [#5](https://github.com/laktak/tome/issues/5#issuecomment-3303871320) in [laktak/tome](https://github.com/laktak/tome)
-3. 🗣 Commented on [#5](https://github.com/laktak/tome/issues/5#issuecomment-3300263783) in [laktak/tome](https://github.com/laktak/tome)
+1. ❗ Opened issue [#17](https://github.com/jinzhongjia/codecompanion-gitcommit.nvim/issues/17) in [jinzhongjia/codecompanion-gitcommit.nvim](https://github.com/jinzhongjia/codecompanion-gitcommit.nvim)
+2. 🗣 Commented on [#5](https://github.com/laktak/tome/issues/5#issuecomment-3315146662) in [laktak/tome](https://github.com/laktak/tome)
+3. 🗣 Commented on [#5](https://github.com/laktak/tome/issues/5#issuecomment-3303871320) in [laktak/tome](https://github.com/laktak/tome)
 
 <!--END_SECTION:activity-->
 
