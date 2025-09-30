@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#16](https://github.com/jinzhongjia/codecompanion-gitcommit.nvim/issues/16#issuecomment-3339715454) in [jinzhongjia/codecompanion-gitcommit.nvim](https://github.com/jinzhongjia/codecompanion-gitcommit.nvim)
-2. 🗣 Commented on [#17](https://github.com/jinzhongjia/codecompanion-gitcommit.nvim/issues/17#issuecomment-3339707143) in [jinzhongjia/codecompanion-gitcommit.nvim](https://github.com/jinzhongjia/codecompanion-gitcommit.nvim)
-3. ❗ Opened issue [#17](https://github.com/jinzhongjia/codecompanion-gitcommit.nvim/issues/17) in [jinzhongjia/codecompanion-gitcommit.nvim](https://github.com/jinzhongjia/codecompanion-gitcommit.nvim)
+1.  Labeled issue [#2229](https://github.com/folke/snacks.nvim/issues/2229) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+2. ❗ Opened issue [#2229](https://github.com/folke/snacks.nvim/issues/2229) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+3. 🗣 Commented on [#17](https://github.com/jinzhongjia/codecompanion-gitcommit.nvim/issues/17#issuecomment-3352982755) in [jinzhongjia/codecompanion-gitcommit.nvim](https://github.com/jinzhongjia/codecompanion-gitcommit.nvim)
 
 <!--END_SECTION:activity-->
 
