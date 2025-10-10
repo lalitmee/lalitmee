@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#19](https://github.com/lalitmee/cobalt2.nvim/pull/19) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
-2. 💪 Opened PR [#19](https://github.com/lalitmee/cobalt2.nvim/pull/19) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
-3. ❗ Opened issue [#2229](https://github.com/folke/snacks.nvim/issues/2229) in [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
+1. 💪 Opened PR [#26](https://github.com/lalitmee/browse.nvim/pull/26) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+2. 🎉 Merged PR [#19](https://github.com/lalitmee/cobalt2.nvim/pull/19) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+3. 💪 Opened PR [#19](https://github.com/lalitmee/cobalt2.nvim/pull/19) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
 
 <!--END_SECTION:activity-->
 
