@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#26](https://github.com/lalitmee/browse.nvim/pull/26) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-2. 🎉 Merged PR [#19](https://github.com/lalitmee/cobalt2.nvim/pull/19) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
-3. 💪 Opened PR [#19](https://github.com/lalitmee/cobalt2.nvim/pull/19) in [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim)
+1. 🎉 Merged PR [#27](https://github.com/lalitmee/browse.nvim/pull/27) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+2. 💪 Opened PR [#27](https://github.com/lalitmee/browse.nvim/pull/27) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+3. 🎉 Merged PR [#26](https://github.com/lalitmee/browse.nvim/pull/26) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
 
 <!--END_SECTION:activity-->
 
