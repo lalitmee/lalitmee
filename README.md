@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#27](https://github.com/lalitmee/browse.nvim/pull/27) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-2. 💪 Opened PR [#27](https://github.com/lalitmee/browse.nvim/pull/27) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-3. 🎉 Merged PR [#26](https://github.com/lalitmee/browse.nvim/pull/26) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+1. 🔒 Closed issue [#25](https://github.com/lalitmee/browse.nvim/issues/25) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+2. 🗣 Commented on [#25](https://github.com/lalitmee/browse.nvim/issues/25#issuecomment-3393499228) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+3. 🎉 Merged PR [#27](https://github.com/lalitmee/browse.nvim/pull/27) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
 
 <!--END_SECTION:activity-->
 
