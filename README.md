@@ -76,7 +76,7 @@ ______________________________________________________________________
 
 1. 🚀 Published release [v1.0.1](https://github.com/lalitmee/codecompanion-spinners.nvim/releases/tag/v1.0.1) in [lalitmee/codecompanion-spinners.nvim](https://github.com/lalitmee/codecompanion-spinners.nvim)
 2. 🚀 Published release [v1.0.0](https://github.com/lalitmee/browse.nvim/releases/tag/v1.0.0) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
-3. 🚀 Published release [v1.0.0](https://github.com/lalitmee/browse.nvim/releases/tag/v1.0.0) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+3. 🔒 Closed issue [#25](https://github.com/lalitmee/browse.nvim/issues/25) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
 
 <!--END_SECTION:activity-->
 
