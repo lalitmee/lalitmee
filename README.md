@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2](https://github.com/raine/tmux-file-picker/issues/2) in [raine/tmux-file-picker](https://github.com/raine/tmux-file-picker)
-2. ❗ Opened issue [#2](https://github.com/raine/tmux-file-picker/issues/2) in [raine/tmux-file-picker](https://github.com/raine/tmux-file-picker)
-3. 🚀 Published release [v1.0.0](https://github.com/lalitmee/browse.nvim/releases/tag/v1.0.0) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+1. 🗣 Commented on [#7](https://github.com/lalitmee/markdown-editor/pull/7#issuecomment-3590196563) in [lalitmee/markdown-editor](https://github.com/lalitmee/markdown-editor)
+2. 🗣 Commented on [#2](https://github.com/lalitmee/markdown-editor/pull/2#issuecomment-3590195319) in [lalitmee/markdown-editor](https://github.com/lalitmee/markdown-editor)
+3. 🗣 Commented on [#3](https://github.com/lalitmee/markdown-editor/pull/3#issuecomment-3590194722) in [lalitmee/markdown-editor](https://github.com/lalitmee/markdown-editor)
 
 <!--END_SECTION:activity-->
 
