@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/lalitmee/markdown-editor/pull/2#issuecomment-3591860479) in [lalitmee/markdown-editor](https://github.com/lalitmee/markdown-editor)
-2. 🗣 Commented on [#6](https://github.com/lalitmee/markdown-editor/pull/6#issuecomment-3591818703) in [lalitmee/markdown-editor](https://github.com/lalitmee/markdown-editor)
-3. 🗣 Commented on [#11](https://github.com/lalitmee/markdown-editor/pull/11#issuecomment-3591818315) in [lalitmee/markdown-editor](https://github.com/lalitmee/markdown-editor)
+1. 🔒 Closed issue [#23](https://github.com/lalitmee/browse.nvim/issues/23) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+2. 🗣 Commented on [#2](https://github.com/lalitmee/markdown-editor/pull/2#issuecomment-3591860479) in [lalitmee/markdown-editor](https://github.com/lalitmee/markdown-editor)
+3. 🗣 Commented on [#6](https://github.com/lalitmee/markdown-editor/pull/6#issuecomment-3591818703) in [lalitmee/markdown-editor](https://github.com/lalitmee/markdown-editor)
 
 <!--END_SECTION:activity-->
 
