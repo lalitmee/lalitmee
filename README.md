@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#136](undefined) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
-2. 💪 Opened PR [#136](undefined) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
-3. 🔒 Closed issue [#23](https://github.com/lalitmee/browse.nvim/issues/23) in [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim)
+1. ❌ Merged PR [#137](undefined) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
+2. 💪 Opened PR [#137](undefined) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
+3. ❌ Merged PR [#136](undefined) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
 
 <!--END_SECTION:activity-->
 
