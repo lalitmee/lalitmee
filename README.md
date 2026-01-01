@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#137](undefined) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
-2. 💪 Opened PR [#137](undefined) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
-3. ❌ Merged PR [#136](undefined) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
+1. 🎉 Merged PR [#137](https://github.com/lalitmee/portfolio/pull/137) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
+2. 💪 Opened PR [#137](https://github.com/lalitmee/portfolio/pull/137) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
+3. 🎉 Merged PR [#136](https://github.com/lalitmee/portfolio/pull/136) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
 
 <!--END_SECTION:activity-->
 
