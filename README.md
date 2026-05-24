@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#139](https://github.com/lalitmee/portfolio/pull/139) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
-2. 💪 Opened PR [#139](https://github.com/lalitmee/portfolio/pull/139) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
-3. 🎉 Merged PR [#138](https://github.com/lalitmee/portfolio/pull/138) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
+1. 🔒 Closed issue [#53](https://github.com/lalitmee/portfolio/issues/53) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
+2. 🔒 Closed issue [#49](https://github.com/lalitmee/portfolio/issues/49) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
+3. 🔒 Closed issue [#55](https://github.com/lalitmee/portfolio/issues/55) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
 
 <!--END_SECTION:activity-->
 
