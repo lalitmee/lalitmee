@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#53](https://github.com/lalitmee/portfolio/issues/53) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
-2. 🔒 Closed issue [#49](https://github.com/lalitmee/portfolio/issues/49) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
-3. 🔒 Closed issue [#55](https://github.com/lalitmee/portfolio/issues/55) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
+1. 💪 Opened PR [#8](https://github.com/lalitmee/dotfiles/pull/8) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
+2. 🔒 Closed issue [#53](https://github.com/lalitmee/portfolio/issues/53) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
+3. 🔒 Closed issue [#49](https://github.com/lalitmee/portfolio/issues/49) in [lalitmee/portfolio](https://github.com/lalitmee/portfolio)
 
 <!--END_SECTION:activity-->
 
