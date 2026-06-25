@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#11](https://github.com/lalitmee/dotfiles/pull/11) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
-2. ❌ Closed PR [#15](https://github.com/lalitmee/dotfiles/pull/15) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
-3. 💪 Opened PR [#16](https://github.com/lalitmee/dotfiles/pull/16) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
+1. ❌ Closed PR [#12](https://github.com/lalitmee/dotfiles/pull/12) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
+2. 🎉 Merged PR [#11](https://github.com/lalitmee/dotfiles/pull/11) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
+3. ❌ Closed PR [#15](https://github.com/lalitmee/dotfiles/pull/15) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
 
 <!--END_SECTION:activity-->
 
