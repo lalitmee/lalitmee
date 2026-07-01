@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#17](https://github.com/lalitmee/dotfiles/pull/17) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
-2. 💪 Opened PR [#17](https://github.com/lalitmee/dotfiles/pull/17) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
-3. ❌ Closed PR [#12](https://github.com/lalitmee/dotfiles/pull/12) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
+1. 🗣 Commented on [#2](https://github.com/lalitmee/shopping-list/pull/2#issuecomment-4860555474) in [lalitmee/shopping-list](https://github.com/lalitmee/shopping-list)
+2. 🗣 Commented on [#3](https://github.com/lalitmee/shopping-list/pull/3#issuecomment-4860554943) in [lalitmee/shopping-list](https://github.com/lalitmee/shopping-list)
+3. 🗣 Commented on [#4](https://github.com/lalitmee/shopping-list/pull/4#issuecomment-4860554365) in [lalitmee/shopping-list](https://github.com/lalitmee/shopping-list)
 
 <!--END_SECTION:activity-->
 
