@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#20](https://github.com/lalitmee/laravel-server-side-rendering-examples/pull/20#issuecomment-4860732962) in [lalitmee/laravel-server-side-rendering-examples](https://github.com/lalitmee/laravel-server-side-rendering-examples)
-2. 🗣 Commented on [#20](https://github.com/lalitmee/laravel-server-side-rendering-examples/pull/20#issuecomment-4860729429) in [lalitmee/laravel-server-side-rendering-examples](https://github.com/lalitmee/laravel-server-side-rendering-examples)
-3. 🗣 Commented on [#20](https://github.com/lalitmee/laravel-server-side-rendering-examples/pull/20#issuecomment-4860725341) in [lalitmee/laravel-server-side-rendering-examples](https://github.com/lalitmee/laravel-server-side-rendering-examples)
+1. 🗣 Commented on [#18](https://github.com/lalitmee/get-advice/pull/18#issuecomment-4867807073) in [lalitmee/get-advice](https://github.com/lalitmee/get-advice)
+2. 🗣 Commented on [#20](https://github.com/lalitmee/laravel-server-side-rendering-examples/pull/20#issuecomment-4860732962) in [lalitmee/laravel-server-side-rendering-examples](https://github.com/lalitmee/laravel-server-side-rendering-examples)
+3. 🗣 Commented on [#20](https://github.com/lalitmee/laravel-server-side-rendering-examples/pull/20#issuecomment-4860729429) in [lalitmee/laravel-server-side-rendering-examples](https://github.com/lalitmee/laravel-server-side-rendering-examples)
 
 <!--END_SECTION:activity-->
 
