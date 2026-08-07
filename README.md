@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#18](https://github.com/lalitmee/dotfiles/pull/18) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
-2. 🗣 Commented on [#34](https://github.com/lalitmee/get-advice/pull/34#issuecomment-5080400473) in [lalitmee/get-advice](https://github.com/lalitmee/get-advice)
-3. 🗣 Commented on [#20](https://github.com/lalitmee/laravel-server-side-rendering-examples/pull/20#issuecomment-4860732962) in [lalitmee/laravel-server-side-rendering-examples](https://github.com/lalitmee/laravel-server-side-rendering-examples)
+1. 🎉 Merged PR [#18](https://github.com/lalitmee/dotfiles/pull/18) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
+2. 💪 Opened PR [#18](https://github.com/lalitmee/dotfiles/pull/18) in [lalitmee/dotfiles](https://github.com/lalitmee/dotfiles)
+3. 🗣 Commented on [#34](https://github.com/lalitmee/get-advice/pull/34#issuecomment-5080400473) in [lalitmee/get-advice](https://github.com/lalitmee/get-advice)
 
 <!--END_SECTION:activity-->
 
