@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#57](https://github.com/lalitmee/github-search/pull/57) in [lalitmee/github-search](https://github.com/lalitmee/github-search)
-2. ❌ Closed PR [#58](https://github.com/lalitmee/github-search/pull/58) in [lalitmee/github-search](https://github.com/lalitmee/github-search)
-3. ❌ Closed PR [#55](https://github.com/lalitmee/github-search/pull/55) in [lalitmee/github-search](https://github.com/lalitmee/github-search)
+1. ❌ Closed PR [#39](https://github.com/lalitmee/markdown-editor/pull/39) in [lalitmee/markdown-editor](https://github.com/lalitmee/markdown-editor)
+2. ❌ Closed PR [#37](https://github.com/lalitmee/markdown-editor/pull/37) in [lalitmee/markdown-editor](https://github.com/lalitmee/markdown-editor)
+3. ❌ Closed PR [#38](https://github.com/lalitmee/markdown-editor/pull/38) in [lalitmee/markdown-editor](https://github.com/lalitmee/markdown-editor)
 
 <!--END_SECTION:activity-->
 
