@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/lalitmee/markdown-previewer/pull/6) in [lalitmee/markdown-previewer](https://github.com/lalitmee/markdown-previewer)
-2. 💪 Opened PR [#6](https://github.com/lalitmee/markdown-previewer/pull/6) in [lalitmee/markdown-previewer](https://github.com/lalitmee/markdown-previewer)
-3. 🎉 Merged PR [#5](https://github.com/lalitmee/markdown-previewer/pull/5) in [lalitmee/markdown-previewer](https://github.com/lalitmee/markdown-previewer)
+1. 🚀 Published release [0.1.0](https://github.com/lalitmee/markdown-previewer/releases/tag/0.1.0) in [lalitmee/markdown-previewer](https://github.com/lalitmee/markdown-previewer)
+2. 🎉 Merged PR [#7](https://github.com/lalitmee/markdown-previewer/pull/7) in [lalitmee/markdown-previewer](https://github.com/lalitmee/markdown-previewer)
+3. 💪 Opened PR [#7](https://github.com/lalitmee/markdown-previewer/pull/7) in [lalitmee/markdown-previewer](https://github.com/lalitmee/markdown-previewer)
 
 <!--END_SECTION:activity-->
 
