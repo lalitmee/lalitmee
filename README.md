@@ -74,9 +74,9 @@ ______________________________________________________________________
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/lalitmee/hn-revamped/pull/1) in [lalitmee/hn-revamped](https://github.com/lalitmee/hn-revamped)
-2. 💪 Opened PR [#1](https://github.com/lalitmee/hn-revamped/pull/1) in [lalitmee/hn-revamped](https://github.com/lalitmee/hn-revamped)
-3. 🎉 Merged PR [#8](https://github.com/lalitmee/markdown-previewer/pull/8) in [lalitmee/markdown-previewer](https://github.com/lalitmee/markdown-previewer)
+1. 🎉 Merged PR [#9](https://github.com/lalitmee/markdown-previewer/pull/9) in [lalitmee/markdown-previewer](https://github.com/lalitmee/markdown-previewer)
+2. 💪 Opened PR [#9](https://github.com/lalitmee/markdown-previewer/pull/9) in [lalitmee/markdown-previewer](https://github.com/lalitmee/markdown-previewer)
+3. 🎉 Merged PR [#1](https://github.com/lalitmee/hn-revamped/pull/1) in [lalitmee/hn-revamped](https://github.com/lalitmee/hn-revamped)
 
 <!--END_SECTION:activity-->
 
